@@ -7,7 +7,7 @@ import (
 
 const (
 	// AdminVersion the version of the jx admin plugin
-	AdminVersion = "0.3.0"
+	AdminVersion = "0.3.1"
 
 	// ApplicationVersion the version of the jx application plugin
 	ApplicationVersion = "0.3.3"
@@ -16,7 +16,7 @@ const (
 	ChangelogVersion = "0.10.3"
 
 	// GitOpsVersion the version of the jx gitops plugin
-	GitOpsVersion = "0.20.0"
+	GitOpsVersion = "0.20.1"
 
 	// HealthVersion the version of the jx health plugin
 	HealthVersion = "0.0.77"
@@ -40,7 +40,7 @@ const (
 	PromoteVersion = "0.6.7"
 
 	// SecretVersion the version of the jx secret plugin
-	SecretVersion = "0.4.8"
+	SecretVersion = "0.4.9"
 
 	// TestVersion the version of the jx test plugin
 	TestVersion = "0.0.53"
