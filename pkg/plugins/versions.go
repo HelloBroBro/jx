@@ -7,16 +7,16 @@ import (
 
 const (
 	// AdminVersion the version of the jx admin plugin
-	AdminVersion = "0.3.6"
+	AdminVersion = "0.3.7"
 
 	// ApplicationVersion the version of the jx application plugin
 	ApplicationVersion = "0.3.3"
 
 	// ChangelogVersion the version of the jx changelog plugin
-	ChangelogVersion = "0.10.6"
+	ChangelogVersion = "0.10.10"
 
 	// GitOpsVersion the version of the jx gitops plugin
-	GitOpsVersion = "0.22.4"
+	GitOpsVersion = "0.22.7"
 
 	// HealthVersion the version of the jx health plugin
 	HealthVersion = "0.0.77"
